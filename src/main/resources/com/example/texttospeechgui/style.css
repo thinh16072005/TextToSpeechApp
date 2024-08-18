@@ -1,0 +1,14 @@
+.body {
+    -fx-background: #03c2fc;
+}
+
+.text-to-speech-label {
+    -fx-font-size: 25;
+    -fx-font-weight: bold;
+    -fx-padding: 10;
+}
+
+.text-area {
+    -fx-font-size: 16;
+    -fx-control-inner-background: #1b748f;
+}
